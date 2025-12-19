@@ -1,0 +1,28 @@
+# Binary
+pub
+pub.exe
+dist/
+
+# Go
+*.test
+*.out
+coverage.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
+
+# Dart/Flutter
+.dart_tool/
+.packages
+pubspec.lock
